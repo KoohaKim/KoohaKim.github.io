@@ -1,4 +1,4 @@
-package Class.Week4_0508;
+package Class.Week4.Week4_0508;
 
 public class UserTest {
   public static void main(String[] args) {

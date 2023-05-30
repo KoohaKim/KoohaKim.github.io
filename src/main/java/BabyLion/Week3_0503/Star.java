@@ -1,4 +1,4 @@
-package BabyLion;
+package BabyLion.Week3_0503;
 
 public class Star {
     public static void main(String[] args) {

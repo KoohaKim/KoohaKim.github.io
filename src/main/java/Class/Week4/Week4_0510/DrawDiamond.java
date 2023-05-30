@@ -7,6 +7,7 @@ public class DrawDiamond {
   public static void main(String[] args) {
     int h = 7;
     int pivot = h / 2;
+
     for (int i = 0; i < h; i++) {
       if(i <= pivot){
         // 피라미드 로직

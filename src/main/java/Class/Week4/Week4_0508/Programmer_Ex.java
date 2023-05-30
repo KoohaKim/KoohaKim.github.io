@@ -1,4 +1,4 @@
-package Class.Week4_0508;
+package Class.Week4.Week4_0508;
 
   class Solution {
     public int[] solution(int[] answers) {

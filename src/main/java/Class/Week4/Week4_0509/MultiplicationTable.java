@@ -1,4 +1,4 @@
-package Class.Week4_0509;
+package Class.Week4.Week4_0509;
 
 public class MultiplicationTable {
   public static void printDan(int dan) {

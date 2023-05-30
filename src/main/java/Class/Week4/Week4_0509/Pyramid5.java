@@ -1,4 +1,4 @@
-package Class.Week4_0509;
+package Class.Week4.Week4_0509;
 //역피라미드
 public class Pyramid5 {
   //메소드로 핵심내용 분리
